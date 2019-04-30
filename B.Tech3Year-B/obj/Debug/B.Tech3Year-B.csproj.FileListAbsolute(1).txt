@@ -1,0 +1,90 @@
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\B.Tech3Year-B.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\B.Tech3Year-B.pdb
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\Antlr3.Runtime.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\AspNet.ScriptManager.jQuery.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.AspNet.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.Core.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\EntityFramework.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.ScriptManager.WebForms.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.Web.Infrastructure.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\System.Web.Optimization.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\System.Web.Providers.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\WebGrease.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\EntityFramework.xml
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.Core.xml
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.xml
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.xml
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.AspNet.xml
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.csprojResolveAssemblyReference.cache
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.dll
+D:\My Projects\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.pdb
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\B.Tech3Year-B.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\B.Tech3Year-B.pdb
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\Antlr3.Runtime.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.Core.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\EntityFramework.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\System.Web.Optimization.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\System.Web.Providers.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\WebGrease.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\EntityFramework.xml
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.Core.xml
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.csprojResolveAssemblyReference.cache
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.dll
+C:\Users\USER.VADD1PC33\Desktop\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.pdb
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\B.Tech3Year-B.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\B.Tech3Year-B.pdb
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\Antlr3.Runtime.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\AspNet.ScriptManager.jQuery.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.AspNet.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.Core.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\EntityFramework.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\Microsoft.Web.Infrastructure.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\System.Web.Optimization.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\System.Web.Providers.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\WebGrease.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\EntityFramework.xml
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.Core.xml
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.xml
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.xml
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\bin\DotNetOpenAuth.AspNet.xml
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.csprojResolveAssemblyReference.cache
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.dll
+D:\Ritik\02042019\B.Tech3Year-B\B.Tech3Year-B\obj\Debug\B.Tech3Year-B.pdb

@@ -1,0 +1,88 @@
+CREATE PROCEDURE [dbo].[spDeleteRegistrationData]
+	@Id int
+AS
+	delete from registration where Id = @Id;
+RETURN 0
+
+CREATE PROCEDURE [dbo].[spEditRegistrationData]
+	@Id int,
+	@FirstName varchar(50),
+	@LastName varchar(50),
+	@EmailId varchar(50),
+	@Password varchar(10),
+	@MobileNumber varchar(10),
+	@State varchar(50),
+	@City varchar(10),
+	@Pincode varchar(10),
+	@Gender varchar(10),
+	@Programming varchar(50) 
+AS
+	update registration set first_name = @FirstName,
+		last_name = @LastName,
+		email_id = @EmailId,
+		password = @Password,
+		mobile_number = @MobileNumber,
+		state=@State,
+		city=@City,
+		pincode=@Pincode,
+		gender=@Gender,
+		programming=@Programming
+		where Id = @Id;
+RETURN 0
+
+CREATE PROCEDURE [dbo].[spGetAllCity]
+	@StateName varchar(50)
+AS
+	SELECT city_name from state_city where state_name = @StateName;
+RETURN 0
+
+CREATE PROCEDURE [dbo].[spGetAllState]
+AS
+	SELECT distinct state_name from state_city;
+RETURN 0
+
+CREATE PROCEDURE [dbo].[spGetpincode]
+	@City varchar(50)
+	
+AS
+	SELECT pincode from state_city where city_name=@city;
+RETURN 0
+
+CREATE PROCEDURE [dbo].[spGetRegistrationData]	
+	@EmailId varchar(50)
+AS
+	SELECT * from registration where email_id = @EmailId;
+RETURN 0
+
+CREATE PROCEDURE [dbo].[spGetRegistrationDataWithId]
+	@Id int
+AS
+	SELECT * from registration where Id=@Id;
+	SELECT distinct state_name from state_city;
+RETURN 0
+
+CREATE PROCEDURE [dbo].[spInsertRegistrationData]
+	@FirstName varchar(50),
+	@LastName varchar(50),
+	@EmailId varchar(50),
+	@Password varchar(10),
+	@MobileNo varchar(10),
+	@State varchar(50),
+	@City varchar(10),
+	@Pincode varchar(10),
+	@Gender varchar(10),
+	@Programming varchar(50) 
+AS
+	insert into registration(first_name, last_name, email_id, password, mobile_number,state,city,pincode,gender,programming)
+	values(@FirstName, @LastName, @EmailId, @Password, @MobileNo,@State,@City,@Pincode,@Gender,@Programming);
+
+RETURN 0
+
+CREATE PROCEDURE [dbo].[spLoginData]
+	@EmailId varchar(50),
+	@Password varchar(10)
+AS
+	SELECT * from registration 
+	where email_id = @EmailId and
+	password = @Password;
+RETURN 0
